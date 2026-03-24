@@ -1,7 +1,6 @@
-[Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Miguel Raposo](https://capsule-render.vercel.app/api?type=venom&height=300&color=2e0175&text=Miguel%20Raposo&fontColor=000000&fontSize=70&section=header)
-======================================================================================================================================
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=2e0175&text=Miguel%20Raposo&fontColor=ffffff&fontSize=70&section=header">
 
-Studing ASIR
+
 ------------
 
 An ASIR (Advanced Vocational Training in Network Systems Administration) student motivated, learning and focused on managing and maintaining computer systems and networks. I am developing skills in system administration, cybersecurity, database management, and troubleshooting. I am detail-oriented, enjoys solving technical problems, prepared to work in IT environments where reliability and efficiency are essential.
