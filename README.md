@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Miguel Raposo
+[Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Miguel Raposo](https://capsule-render.vercel.app/api?type=venom&height=300&color=2e0175&text=Miguel%20Raposo&fontColor=000000&fontSize=70&section=header)
 ======================================================================================================================================
 
 Studing ASIR
